@@ -1,0 +1,5 @@
+1.Ability to save encrypted image file in all popular formats.
+2.Send Images through internet.
+3.User Authentication.
+4.Unique Identification ID for App......#done
+5.User to User only and App to APP only Messages..... #done
